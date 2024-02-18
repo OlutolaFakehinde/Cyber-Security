@@ -27,4 +27,4 @@ No matter the form of data approach, a business/data analyst must not downplay t
 ## Reference
 1. ISO 27001 Certified ISMS Lead Implementer (CIS) v2.1.1.1 (Distance Learning)
 
-2. What is Data Security? [link](https://www.yellowfinbi.com/blog/what-is-data-security#Where_do_I_start_with_data_security_for_my_analytics_users)
+2. What is Data Security? - The Role of Analytics in Data Protection. [link](https://www.yellowfinbi.com/blog/what-is-data-security#Where_do_I_start_with_data_security_for_my_analytics_users)
