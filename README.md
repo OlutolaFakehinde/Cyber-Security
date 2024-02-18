@@ -18,7 +18,13 @@ The structure of Information Security Management System is:
 6. Evaluation
 7. Improvement
 
+## Data Security
+My knowledge in Cyber Security informed my of the importance of data security in data analysis. Data Security, which is also known as data protection in analytics and business intelligence involves organisation's policies, processes and technologies for the protection of the organisation's assets against data breaches or threats within and outside the organisation.
 
+## Conclusion
+No matter the form of data approach, a business/data analyst must not downplay the importance of security, governance and confidentiality of the data one uses.
 
 ## Reference
-ISO 27001 Certified ISMS Lead Implementer (CIS) v2.1.1.1 (Distance Learning)
+1. ISO 27001 Certified ISMS Lead Implementer (CIS) v2.1.1.1 (Distance Learning)
+
+2. [link](https://www.yellowfinbi.com/blog/what-is-data-security#Where_do_I_start_with_data_security_for_my_analytics_users)
